@@ -1,0 +1,5 @@
+rich
+colorama
+argon2-cffi
+cryptography
+pygame
